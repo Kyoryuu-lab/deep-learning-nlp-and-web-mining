@@ -1,0 +1,33 @@
+# Bytecode and runtime cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch & Hugging Face checkpoints
+results/
+logs/
+*.pt
+*.bin
+checkpoint-*/
+
+# Datasets & local caches
+.cache/
+datasets/
+data/
+*.log
+*.csv
+
+# Plot Exports
+*.png
+*.jpg
+*.pdf
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & OS Metadata
+.idea/
+.vscode/
+.DS_Store
