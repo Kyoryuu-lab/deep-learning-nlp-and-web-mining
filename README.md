@@ -85,7 +85,7 @@
   <tr>
     <td><b>Translation Loss</b></td>
     <td>Negative Log-Likelihood</td>
-    <td>$\mathcal{L}_{\text{NLL}} = -\sum_{t=1}^T \log P(y_t \mid y_{&lt;t}, \mathbf{c})</td>
+    <td>$\mathcal{L}_{\text{NLL}} = -\sum_{t=1}^T \log P(y_t \mid y_{&lt;t}, \mathbf{c})$</td>
   </tr>
   <tr>
     <td><b>Topic Discovery</b></td>
